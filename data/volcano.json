@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Mount Sinabung",
+    "location": "Sumatera Utara",
+    "status": "Alert"
+  },
+  {
+    "id": 2,
+    "name": "Mount Marapi",
+    "location": "Sumatera Barat",
+    "status": "Alert"
+  },
+  {
+    "id": 3,
+    "name": "Mount Kerinci",
+    "location": "Sumatera Barat",
+    "status": "Alert"
+  },
+  {
+    "id": 4,
+    "name": "Mount Anak Krakatau",
+    "location": "Banten",
+    "status": "Alert"
+  },
+  {
+    "id": 5,
+    "name": "Mount Merapi",
+    "location": "Jawa Tengah & DIY",
+    "status": "Standby"
+  },
+  {
+    "id": 6,
+    "name": "Mount Semeru",
+    "location": "Jawa Timur",
+    "status": "Alert"
+  },
+  {
+    "id": 7,
+    "name": "Mount Bromo",
+    "location": "Jawa Timur",
+    "status": "Alert"
+  },
+  {
+    "id": 8,
+    "name": "Mount Agung",
+    "location": "Bali",
+    "status": "Normal"
+  },
+  {
+    "id": 9,
+    "name": "Mount Rinjani",
+    "location": "NTB",
+    "status": "Alert"
+  },
+  {
+    "id": 10,
+    "name": "Mount Sangeang",
+    "location": "NTB",
+    "status": "Normal"
+  },
+  {
+    "id": 11,
+    "name": "Mount Lewotobi Laki-laki",
+    "location": "NTT",
+    "status": "Danger"
+  },
+  {
+    "id": 12,
+    "name": "Mount Sirung",
+    "location": "NTT",
+    "status": "Normal"
+  },
+  {
+    "id": 13,
+    "name": "Mount Banda Api",
+    "location": "Maluku",
+    "status": "Alert"
+  },
+  {
+    "id": 14,
+    "name": "Mount Gamalama",
+    "location": "Maluku Utara",
+    "status": "Alert"
+  },
+  {
+    "id": 15,
+    "name": "Mount Ibu",
+    "location": "Maluku Utara",
+    "status": "Standby"
+  },
+  {
+    "id": 16,
+    "name": "Mount Karangetang",
+    "location": "Sulawesi Utara",
+    "status": "Standby"
+  }
+]
