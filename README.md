@@ -36,38 +36,39 @@ VonTaIn merupakan aplikasi yang menyediakan data dan juga peta gunung berapi di 
 - [BNPB](https://www.bnpb.go.id/)
 - [Magma ESDM](https://magma.esdm.go.id/)
 - Gambar Gunung dari Google
+- [Peta Leaflet JS Ionic](https://github.com/hayyurahmayani/leafletmap)
 
 ---
 
 ### Tangkapan Layar Komponen
 <div align="center">
-  <img src="img/1.png" alt="1" width="45%" style="margin-right: 10px;"/>
-  <img src="img/2.png" alt="2" width="45%"/>
+  <img src="img/1.png" alt="1" width="35%" style="margin-right: 10px;"/>
+  <img src="img/2.png" alt="2" width="35%"/>
 </div>
 </br>
 <div align="center">
-  <img src="img/3.png" alt="3" width="45%" style="margin-right: 10px;"/>
-  <img src="img/4.png" alt="4" width="45%"/>
+  <img src="img/3.png" alt="3" width="35%" style="margin-right: 10px;"/>
+  <img src="img/4.png" alt="4" width="35%"/>
 </div>
 </br>
 <div align="center">
-  <img src="img/5.png" alt="5" width="45%" style="margin-right: 10px;"/>
-  <img src="img/6.png" alt="6" width="45%"/>
+  <img src="img/5.png" alt="5" width="35%" style="margin-right: 10px;"/>
+  <img src="img/6.png" alt="6" width="35%"/>
 </div>
 </br>
 <div align="center">
-  <img src="img/7.png" alt="7" width="45%" style="margin-right: 10px;"/>
-  <img src="img/8.png" alt="8" width="45%"/>
+  <img src="img/7.png" alt="7" width="35%" style="margin-right: 10px;"/>
+  <img src="img/8.png" alt="8" width="35%"/>
 </div>
 </br>
 <div align="center">
-  <img src="img/9.png" alt="9" width="45%" style="margin-right: 10px;"/>
-  <img src="img/10.png" alt="10" width="45%"/>
+  <img src="img/9.png" alt="9" width="35%" style="margin-right: 10px;"/>
+  <img src="img/10.png" alt="10" width="35%"/>
 </div>
 </br>
 <div align="center">
-  <img src="img/11.png" alt="11" width="45%" style="margin-right: 10px;"/>
-  <img src="img/12.png" alt="12" width="45%"/>
+  <img src="img/11.png" alt="11" width="35%" style="margin-right: 10px;"/>
+  <img src="img/12.png" alt="12" width="35%"/>
 </div>
 
 ---
